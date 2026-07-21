@@ -157,7 +157,7 @@ Fine-tuning large language models on domain-specific data.
 
 | Model | Notebook |
 |-------|----------|
-| TinyLlama (Medical Records) | [`tinyLlama_finetuning_medical_records.ipynb`]([https://github.com/yashas224/machine-learning-model-implementations](https://nbsanity.com/static/a75d70df33038e902e17ff4d9fdcd335/tinyLlama_finetuning_medical_records.html))  |
+| TinyLlama (Medical Records) | [`tinyLlama_finetuning_medical_records.ipynb`][https://github.com/yashas224/machine-learning-model-implementations](https://nbsanity.com/static/a75d70df33038e902e17ff4d9fdcd335/tinyLlama_finetuning_medical_records.html)  |
 
 ---
 
